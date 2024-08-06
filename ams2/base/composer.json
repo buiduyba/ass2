@@ -1,0 +1,18 @@
+{
+    "name": "duy/test",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bùi Đức Duy",
+            "email": "102569075+buiduyba@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phroute/phroute": "^2.2",
+        "eftec/bladeone": "^4.13"
+    }
+}
